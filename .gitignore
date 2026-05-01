@@ -1,0 +1,18 @@
+
+.book.db
+.book.db-shm
+.book.db-wal
+.plan-number.lock
+.go-state.json
+.secrets/
+# Book CLI
+# Secrets
+cmd/book/book.DS_Store
+memo
+plans/.DS_Store
+.DS_Store
+docs/.DS_Store
+docs/guides/.DS_Store
+.go-state.json.tmp
+plans/p189-swgo-translate-length/.go-state.json.hf1.bak
+plans/p189-swgo-translate-length/.go-state.json.p189-body.bak
